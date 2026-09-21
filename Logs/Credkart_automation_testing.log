@@ -2887,3 +2887,783 @@
 2026-09-21 10:47:16,744 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
 2026-09-21 10:47:16,744 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
 2026-09-21 10:47:16,744 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:11:48,921 - root - INFO - 113 - Testcase test_credkart_registration_003 is started
+2026-09-21 15:11:48,921 - root - INFO - 113 - Testcase test_credkart_registration_003 is started
+2026-09-21 15:11:49,634 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:11:49,634 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:11:49,964 - root - INFO - 115 - Opening the browser and landing on:https://automation.credence.in/register
+2026-09-21 15:11:49,964 - root - INFO - 115 - Opening the browser and landing on:https://automation.credence.in/register
+2026-09-21 15:11:49,976 - root - INFO - 121 - Entering name:Michelle Frazier
+2026-09-21 15:11:49,976 - root - INFO - 121 - Entering name:Michelle Frazier
+2026-09-21 15:11:50,290 - root - INFO - 123 - Entering email:acostajeff@example.org
+2026-09-21 15:11:50,290 - root - INFO - 123 - Entering email:acostajeff@example.org
+2026-09-21 15:11:50,646 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:11:50,646 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:11:50,647 - root - INFO - 31 - Entering password
+2026-09-21 15:11:50,647 - root - INFO - 31 - Entering password
+2026-09-21 15:11:50,652 - root - INFO - 126 - Entering password
+2026-09-21 15:11:50,652 - root - INFO - 126 - Entering password
+2026-09-21 15:11:50,703 - root - INFO - 61 - Testcase test_Credkart_Login_excel_005 is started
+2026-09-21 15:11:50,703 - root - INFO - 61 - Testcase test_Credkart_Login_excel_005 is started
+2026-09-21 15:11:50,796 - root - INFO - 33 - Entering password
+2026-09-21 15:11:50,796 - root - INFO - 33 - Entering password
+2026-09-21 15:11:51,041 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:11:51,041 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:11:51,064 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:11:51,064 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:11:51,249 - root - INFO - 129 - Entering confirm_password
+2026-09-21 15:11:51,249 - root - INFO - 129 - Entering confirm_password
+2026-09-21 15:11:51,513 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:11:51,513 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:11:52,304 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:11:52,304 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:11:52,304 - root - INFO - 31 - Entering password
+2026-09-21 15:11:52,304 - root - INFO - 31 - Entering password
+2026-09-21 15:11:52,328 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:11:52,328 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:11:52,463 - Test_User_Profile - INFO - 31 - Testcase test_credkart_url_001 is started 
+2026-09-21 15:11:52,463 - Test_User_Profile - INFO - 31 - Testcase test_credkart_url_001 is started 
+2026-09-21 15:11:52,601 - root - INFO - 131 - Clicking on register button
+2026-09-21 15:11:52,601 - root - INFO - 131 - Clicking on register button
+2026-09-21 15:11:52,611 - root - INFO - 37 - Checking login status
+2026-09-21 15:11:52,611 - root - INFO - 37 - Checking login status
+2026-09-21 15:11:52,635 - root - INFO - 75 - Entering Email
+2026-09-21 15:11:52,635 - root - INFO - 75 - Entering Email
+2026-09-21 15:11:52,928 - root - INFO - 53 - Testcase test_credkart_login_002 is started 
+2026-09-21 15:11:52,928 - root - INFO - 53 - Testcase test_credkart_login_002 is started 
+2026-09-21 15:11:52,985 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:11:52,985 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:11:53,308 - root - INFO - 33 - Entering password
+2026-09-21 15:11:53,308 - root - INFO - 33 - Entering password
+2026-09-21 15:11:53,311 - root - INFO - 77 - Entering password
+2026-09-21 15:11:53,311 - root - INFO - 77 - Entering password
+2026-09-21 15:11:53,633 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:11:53,633 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:11:53,638 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:11:53,638 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:11:53,713 - root - INFO - 55 - Opening browser and landing on:https://automation.credence.in/login  
+2026-09-21 15:11:53,713 - root - INFO - 55 - Opening browser and landing on:https://automation.credence.in/login  
+2026-09-21 15:11:53,713 - root - INFO - 62 - Entering email:CredenceTest_5005@credence.in
+2026-09-21 15:11:53,713 - root - INFO - 62 - Entering email:CredenceTest_5005@credence.in
+2026-09-21 15:11:53,850 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:11:53,850 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:11:53,853 - root - INFO - 31 - Entering password
+2026-09-21 15:11:53,853 - root - INFO - 31 - Entering password
+2026-09-21 15:11:54,067 - root - INFO - 69 - Entering password
+2026-09-21 15:11:54,067 - root - INFO - 69 - Entering password
+2026-09-21 15:11:54,284 - root - INFO - 75 - Clicking on login button
+2026-09-21 15:11:54,284 - root - INFO - 75 - Clicking on login button
+2026-09-21 15:11:54,305 - root - INFO - 33 - Entering password
+2026-09-21 15:11:54,305 - root - INFO - 33 - Entering password
+2026-09-21 15:11:54,406 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:11:54,406 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:11:54,727 - root - INFO - 37 - Checking login status
+2026-09-21 15:11:54,727 - root - INFO - 37 - Checking login status
+2026-09-21 15:11:55,061 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:11:55,061 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:11:55,061 - root - INFO - 31 - Entering password
+2026-09-21 15:11:55,061 - root - INFO - 31 - Entering password
+2026-09-21 15:11:55,105 - root - INFO - 133 - Checking registration status
+2026-09-21 15:11:55,105 - root - INFO - 133 - Checking registration status
+2026-09-21 15:11:55,140 - root - INFO - 135 - Registration passed
+2026-09-21 15:11:55,140 - root - INFO - 135 - Registration passed
+2026-09-21 15:11:55,140 - root - INFO - 136 - Clicking on menu button
+2026-09-21 15:11:55,140 - root - INFO - 136 - Clicking on menu button
+2026-09-21 15:11:55,188 - root - INFO - 33 - Entering password
+2026-09-21 15:11:55,188 - root - INFO - 33 - Entering password
+2026-09-21 15:11:55,276 - Test_User_Profile - INFO - 33 - Opening URL and landing on :https://automation.credence.in
+2026-09-21 15:11:55,276 - Test_User_Profile - INFO - 33 - Opening URL and landing on :https://automation.credence.in
+2026-09-21 15:11:55,276 - Test_User_Profile - INFO - 34 - Checking page title
+2026-09-21 15:11:55,276 - Test_User_Profile - INFO - 34 - Checking page title
+2026-09-21 15:11:55,295 - root - INFO - 138 - Clicking on logout button
+2026-09-21 15:11:55,295 - root - INFO - 138 - Clicking on logout button
+2026-09-21 15:11:55,892 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:11:55,892 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:11:55,898 - root - INFO - 81 - Checking login status
+2026-09-21 15:11:55,898 - root - INFO - 81 - Checking login status
+2026-09-21 15:11:55,955 - root - INFO - 90 - Checking login status
+2026-09-21 15:11:55,955 - root - INFO - 90 - Checking login status
+2026-09-21 15:11:55,972 - root - INFO - 84 - Login pass
+2026-09-21 15:11:55,972 - root - INFO - 84 - Login pass
+2026-09-21 15:11:55,972 - root - INFO - 85 - Click on menu button
+2026-09-21 15:11:55,972 - root - INFO - 85 - Click on menu button
+2026-09-21 15:11:56,009 - root - INFO - 92 - Login pass
+2026-09-21 15:11:56,009 - root - INFO - 92 - Login pass
+2026-09-21 15:11:56,009 - root - INFO - 93 - clicking on menu button
+2026-09-21 15:11:56,009 - root - INFO - 93 - clicking on menu button
+2026-09-21 15:11:56,026 - Test_User_Profile - INFO - 36 - Page title is correct and landed on https://automation.credence.in 
+2026-09-21 15:11:56,026 - Test_User_Profile - INFO - 36 - Page title is correct and landed on https://automation.credence.in 
+2026-09-21 15:11:56,026 - Test_User_Profile - INFO - 38 - Taking screenshot
+2026-09-21 15:11:56,026 - Test_User_Profile - INFO - 38 - Taking screenshot
+2026-09-21 15:11:56,190 - root - INFO - 87 - Click on logout menu
+2026-09-21 15:11:56,190 - root - INFO - 87 - Click on logout menu
+2026-09-21 15:11:56,232 - Test_User_Profile - INFO - 40 - Testcase test_credkart_url_001 is Pass
+2026-09-21 15:11:56,232 - Test_User_Profile - INFO - 40 - Testcase test_credkart_url_001 is Pass
+2026-09-21 15:11:56,233 - Test_User_Profile - INFO - 47 - Testcase test_credkart_url_001 is completed
+2026-09-21 15:11:56,233 - Test_User_Profile - INFO - 47 - Testcase test_credkart_url_001 is completed
+2026-09-21 15:11:56,243 - root - INFO - 95 - Clicking on logout button
+2026-09-21 15:11:56,243 - root - INFO - 95 - Clicking on logout button
+2026-09-21 15:11:56,338 - root - INFO - 37 - Checking login status
+2026-09-21 15:11:56,338 - root - INFO - 37 - Checking login status
+2026-09-21 15:11:56,380 - root - INFO - 39 - Login pass
+2026-09-21 15:11:56,380 - root - INFO - 39 - Login pass
+2026-09-21 15:11:56,380 - root - INFO - 40 - Click on menu button
+2026-09-21 15:11:56,380 - root - INFO - 40 - Click on menu button
+2026-09-21 15:11:56,514 - root - INFO - 42 - Click on logout menu
+2026-09-21 15:11:56,514 - root - INFO - 42 - Click on logout menu
+2026-09-21 15:11:56,908 - root - INFO - 37 - Checking login status
+2026-09-21 15:11:56,908 - root - INFO - 37 - Checking login status
+2026-09-21 15:11:57,342 - root - INFO - 140 - Taking screenshot
+2026-09-21 15:11:57,342 - root - INFO - 140 - Taking screenshot
+2026-09-21 15:11:57,433 - root - INFO - 89 - Taking screenshot
+2026-09-21 15:11:57,433 - root - INFO - 89 - Taking screenshot
+2026-09-21 15:11:57,541 - root - INFO - 142 - Test case test_credkart_registration_003 is passed 
+2026-09-21 15:11:57,541 - root - INFO - 142 - Test case test_credkart_registration_003 is passed 
+2026-09-21 15:11:57,541 - root - INFO - 149 - Testcase test_credkart_registration_003 is completed
+2026-09-21 15:11:57,541 - root - INFO - 149 - Testcase test_credkart_registration_003 is completed
+2026-09-21 15:11:57,549 - root - INFO - 97 - Taking screenshot
+2026-09-21 15:11:57,549 - root - INFO - 97 - Taking screenshot
+2026-09-21 15:11:57,621 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:11:57,621 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:11:57,658 - root - INFO - 44 - Taking screenshot
+2026-09-21 15:11:57,658 - root - INFO - 44 - Taking screenshot
+2026-09-21 15:11:57,673 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:11:57,673 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:11:57,673 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:11:57,673 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:11:57,673 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:11:57,673 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:11:57,738 - root - INFO - 99 - Testcase test_credkart_login_002 is passed
+2026-09-21 15:11:57,738 - root - INFO - 99 - Testcase test_credkart_login_002 is passed
+2026-09-21 15:11:57,738 - root - INFO - 106 - Testcase test_credkart_login_002 is completed
+2026-09-21 15:11:57,738 - root - INFO - 106 - Testcase test_credkart_login_002 is completed
+2026-09-21 15:11:57,817 - root - INFO - 46 - Testcase test Credkart_Login_params_004 passed 
+2026-09-21 15:11:57,817 - root - INFO - 46 - Testcase test Credkart_Login_params_004 passed 
+2026-09-21 15:11:57,817 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:11:57,817 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:11:58,041 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:11:58,041 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:11:58,064 - root - INFO - 75 - Entering Email
+2026-09-21 15:11:58,064 - root - INFO - 75 - Entering Email
+2026-09-21 15:11:58,125 - root - INFO - 77 - Entering password
+2026-09-21 15:11:58,125 - root - INFO - 77 - Entering password
+2026-09-21 15:11:58,182 - root - INFO - 49 - Login fail
+2026-09-21 15:11:58,182 - root - INFO - 49 - Login fail
+2026-09-21 15:11:58,182 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:11:58,182 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:11:58,203 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:11:58,203 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:11:58,251 - root - INFO - 81 - Checking login status
+2026-09-21 15:11:58,251 - root - INFO - 81 - Checking login status
+2026-09-21 15:11:58,301 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:11:58,301 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:11:58,301 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:11:58,301 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:12:00,285 - root - INFO - 49 - Login fail
+2026-09-21 15:12:00,285 - root - INFO - 49 - Login fail
+2026-09-21 15:12:00,285 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:12:00,285 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:12:00,399 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:12:00,399 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:12:00,399 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:12:00,399 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:12:02,429 - root - INFO - 49 - Login fail
+2026-09-21 15:12:02,429 - root - INFO - 49 - Login fail
+2026-09-21 15:12:02,429 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:12:02,429 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:12:02,489 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:12:02,489 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:12:02,490 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:12:02,490 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:12:03,803 - root - INFO - 93 - Login fail
+2026-09-21 15:12:03,803 - root - INFO - 93 - Login fail
+2026-09-21 15:12:03,803 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:12:03,803 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:12:03,872 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:12:03,872 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:12:03,872 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:12:03,872 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:12:03,883 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:12:03,883 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:12:03,883 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:12:03,883 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:12:03,883 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:12:03,883 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:12:04,277 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:12:04,277 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:12:04,285 - root - INFO - 75 - Entering Email
+2026-09-21 15:12:04,285 - root - INFO - 75 - Entering Email
+2026-09-21 15:12:04,340 - root - INFO - 77 - Entering password
+2026-09-21 15:12:04,340 - root - INFO - 77 - Entering password
+2026-09-21 15:12:04,390 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:12:04,390 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:12:04,417 - root - INFO - 81 - Checking login status
+2026-09-21 15:12:04,417 - root - INFO - 81 - Checking login status
+2026-09-21 15:12:09,973 - root - INFO - 93 - Login fail
+2026-09-21 15:12:09,973 - root - INFO - 93 - Login fail
+2026-09-21 15:12:09,973 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:12:09,973 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:12:10,053 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:12:10,053 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:12:10,053 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:12:10,053 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:12:10,065 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:12:10,065 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:12:10,065 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:12:10,065 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:12:10,065 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:12:10,065 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:12:10,452 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:12:10,452 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:12:10,483 - root - INFO - 75 - Entering Email
+2026-09-21 15:12:10,483 - root - INFO - 75 - Entering Email
+2026-09-21 15:12:10,550 - root - INFO - 77 - Entering password
+2026-09-21 15:12:10,550 - root - INFO - 77 - Entering password
+2026-09-21 15:12:10,600 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:12:10,600 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:12:11,437 - root - INFO - 81 - Checking login status
+2026-09-21 15:12:11,437 - root - INFO - 81 - Checking login status
+2026-09-21 15:12:16,963 - root - INFO - 93 - Login fail
+2026-09-21 15:12:16,963 - root - INFO - 93 - Login fail
+2026-09-21 15:12:16,963 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:12:16,963 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:12:17,048 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:12:17,048 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:12:17,048 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:12:17,048 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:12:17,064 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:12:17,064 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:12:17,064 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:12:17,064 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:12:17,064 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:12:17,064 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:14:10,728 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing geckodriver (Access is denied. (os error 5)); using driver found in the cache
+2026-09-21 15:14:10,728 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing geckodriver (Access is denied. (os error 5)); using driver found in the cache
+2026-09-21 15:14:14,181 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing geckodriver (Access is denied. (os error 5)); using driver found in the cache
+2026-09-21 15:14:14,181 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing geckodriver (Access is denied. (os error 5)); using driver found in the cache
+2026-09-21 15:14:17,136 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing geckodriver (Access is denied. (os error 5)); using driver found in the cache
+2026-09-21 15:14:17,136 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing geckodriver (Access is denied. (os error 5)); using driver found in the cache
+2026-09-21 15:14:17,617 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:14:17,617 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:14:17,648 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing geckodriver (Access is denied. (os error 5)); using driver found in the cache
+2026-09-21 15:14:17,648 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing geckodriver (Access is denied. (os error 5)); using driver found in the cache
+2026-09-21 15:14:18,525 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:18,525 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:18,525 - root - INFO - 31 - Entering password
+2026-09-21 15:14:18,525 - root - INFO - 31 - Entering password
+2026-09-21 15:14:18,558 - Test_User_Profile - INFO - 31 - Testcase test_credkart_url_001 is started 
+2026-09-21 15:14:18,558 - Test_User_Profile - INFO - 31 - Testcase test_credkart_url_001 is started 
+2026-09-21 15:14:18,575 - root - INFO - 33 - Entering password
+2026-09-21 15:14:18,575 - root - INFO - 33 - Entering password
+2026-09-21 15:14:18,593 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:14:18,593 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:14:20,456 - root - INFO - 37 - Checking login status
+2026-09-21 15:14:20,456 - root - INFO - 37 - Checking login status
+2026-09-21 15:14:21,055 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing geckodriver (Access is denied. (os error 5)); using driver found in the cache
+2026-09-21 15:14:21,055 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing geckodriver (Access is denied. (os error 5)); using driver found in the cache
+2026-09-21 15:14:21,066 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing geckodriver (Access is denied. (os error 5)); using driver found in the cache
+2026-09-21 15:14:21,066 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing geckodriver (Access is denied. (os error 5)); using driver found in the cache
+2026-09-21 15:14:21,121 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing geckodriver (Access is denied. (os error 5)); using driver found in the cache
+2026-09-21 15:14:21,121 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing geckodriver (Access is denied. (os error 5)); using driver found in the cache
+2026-09-21 15:14:21,411 - Test_User_Profile - INFO - 33 - Opening URL and landing on :https://automation.credence.in
+2026-09-21 15:14:21,411 - Test_User_Profile - INFO - 33 - Opening URL and landing on :https://automation.credence.in
+2026-09-21 15:14:21,411 - Test_User_Profile - INFO - 34 - Checking page title
+2026-09-21 15:14:21,411 - Test_User_Profile - INFO - 34 - Checking page title
+2026-09-21 15:14:21,474 - Test_User_Profile - INFO - 36 - Page title is correct and landed on https://automation.credence.in 
+2026-09-21 15:14:21,474 - Test_User_Profile - INFO - 36 - Page title is correct and landed on https://automation.credence.in 
+2026-09-21 15:14:21,474 - Test_User_Profile - INFO - 38 - Taking screenshot
+2026-09-21 15:14:21,474 - Test_User_Profile - INFO - 38 - Taking screenshot
+2026-09-21 15:14:21,754 - Test_User_Profile - INFO - 40 - Testcase test_credkart_url_001 is Pass
+2026-09-21 15:14:21,754 - Test_User_Profile - INFO - 40 - Testcase test_credkart_url_001 is Pass
+2026-09-21 15:14:21,761 - Test_User_Profile - INFO - 47 - Testcase test_credkart_url_001 is completed
+2026-09-21 15:14:21,761 - Test_User_Profile - INFO - 47 - Testcase test_credkart_url_001 is completed
+2026-09-21 15:14:21,958 - root - INFO - 53 - Testcase test_credkart_login_002 is started 
+2026-09-21 15:14:21,958 - root - INFO - 53 - Testcase test_credkart_login_002 is started 
+2026-09-21 15:14:22,791 - root - INFO - 55 - Opening browser and landing on:https://automation.credence.in/login  
+2026-09-21 15:14:22,791 - root - INFO - 55 - Opening browser and landing on:https://automation.credence.in/login  
+2026-09-21 15:14:22,791 - root - INFO - 62 - Entering email:CredenceTest_5005@credence.in
+2026-09-21 15:14:22,791 - root - INFO - 62 - Entering email:CredenceTest_5005@credence.in
+2026-09-21 15:14:22,871 - root - INFO - 69 - Entering password
+2026-09-21 15:14:22,871 - root - INFO - 69 - Entering password
+2026-09-21 15:14:22,921 - root - INFO - 75 - Clicking on login button
+2026-09-21 15:14:22,921 - root - INFO - 75 - Clicking on login button
+2026-09-21 15:14:24,545 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:14:24,545 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:14:25,089 - root - INFO - 90 - Checking login status
+2026-09-21 15:14:25,089 - root - INFO - 90 - Checking login status
+2026-09-21 15:14:25,148 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:14:25,148 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:14:25,157 - root - INFO - 92 - Login pass
+2026-09-21 15:14:25,157 - root - INFO - 92 - Login pass
+2026-09-21 15:14:25,157 - root - INFO - 93 - clicking on menu button
+2026-09-21 15:14:25,157 - root - INFO - 93 - clicking on menu button
+2026-09-21 15:14:25,258 - root - INFO - 95 - Clicking on logout button
+2026-09-21 15:14:25,258 - root - INFO - 95 - Clicking on logout button
+2026-09-21 15:14:25,693 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:25,693 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:25,693 - root - INFO - 31 - Entering password
+2026-09-21 15:14:25,693 - root - INFO - 31 - Entering password
+2026-09-21 15:14:25,795 - root - INFO - 33 - Entering password
+2026-09-21 15:14:25,795 - root - INFO - 33 - Entering password
+2026-09-21 15:14:25,893 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:14:25,893 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:14:25,966 - root - INFO - 49 - Login fail
+2026-09-21 15:14:25,966 - root - INFO - 49 - Login fail
+2026-09-21 15:14:25,966 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:14:25,966 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:14:26,038 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:26,038 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:26,038 - root - INFO - 31 - Entering password
+2026-09-21 15:14:26,038 - root - INFO - 31 - Entering password
+2026-09-21 15:14:26,053 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:14:26,053 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:14:26,056 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:14:26,056 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:14:26,245 - root - INFO - 33 - Entering password
+2026-09-21 15:14:26,245 - root - INFO - 33 - Entering password
+2026-09-21 15:14:26,315 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:14:26,315 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:14:26,375 - root - INFO - 97 - Taking screenshot
+2026-09-21 15:14:26,375 - root - INFO - 97 - Taking screenshot
+2026-09-21 15:14:26,599 - root - INFO - 99 - Testcase test_credkart_login_002 is passed
+2026-09-21 15:14:26,599 - root - INFO - 99 - Testcase test_credkart_login_002 is passed
+2026-09-21 15:14:26,599 - root - INFO - 106 - Testcase test_credkart_login_002 is completed
+2026-09-21 15:14:26,599 - root - INFO - 106 - Testcase test_credkart_login_002 is completed
+2026-09-21 15:14:27,363 - root - INFO - 37 - Checking login status
+2026-09-21 15:14:27,363 - root - INFO - 37 - Checking login status
+2026-09-21 15:14:28,062 - root - INFO - 37 - Checking login status
+2026-09-21 15:14:28,062 - root - INFO - 37 - Checking login status
+2026-09-21 15:14:28,120 - root - INFO - 39 - Login pass
+2026-09-21 15:14:28,120 - root - INFO - 39 - Login pass
+2026-09-21 15:14:28,120 - root - INFO - 40 - Click on menu button
+2026-09-21 15:14:28,120 - root - INFO - 40 - Click on menu button
+2026-09-21 15:14:28,264 - root - INFO - 42 - Click on logout menu
+2026-09-21 15:14:28,264 - root - INFO - 42 - Click on logout menu
+2026-09-21 15:14:29,406 - root - INFO - 44 - Taking screenshot
+2026-09-21 15:14:29,406 - root - INFO - 44 - Taking screenshot
+2026-09-21 15:14:29,422 - root - INFO - 61 - Testcase test_Credkart_Login_excel_005 is started
+2026-09-21 15:14:29,422 - root - INFO - 61 - Testcase test_Credkart_Login_excel_005 is started
+2026-09-21 15:14:29,527 - root - INFO - 46 - Testcase test Credkart_Login_params_004 passed 
+2026-09-21 15:14:29,527 - root - INFO - 46 - Testcase test Credkart_Login_params_004 passed 
+2026-09-21 15:14:29,527 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:14:29,527 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:14:30,088 - root - INFO - 113 - Testcase test_credkart_registration_003 is started
+2026-09-21 15:14:30,088 - root - INFO - 113 - Testcase test_credkart_registration_003 is started
+2026-09-21 15:14:30,284 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:30,284 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:30,315 - root - INFO - 75 - Entering Email
+2026-09-21 15:14:30,315 - root - INFO - 75 - Entering Email
+2026-09-21 15:14:30,460 - root - INFO - 77 - Entering password
+2026-09-21 15:14:30,460 - root - INFO - 77 - Entering password
+2026-09-21 15:14:30,483 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:14:30,483 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:14:30,997 - root - INFO - 115 - Opening the browser and landing on:https://automation.credence.in/register
+2026-09-21 15:14:30,997 - root - INFO - 115 - Opening the browser and landing on:https://automation.credence.in/register
+2026-09-21 15:14:31,004 - root - INFO - 121 - Entering name:Jeremy Kennedy
+2026-09-21 15:14:31,004 - root - INFO - 121 - Entering name:Jeremy Kennedy
+2026-09-21 15:14:31,096 - root - INFO - 123 - Entering email:susan63@example.org
+2026-09-21 15:14:31,096 - root - INFO - 123 - Entering email:susan63@example.org
+2026-09-21 15:14:31,141 - root - INFO - 126 - Entering password
+2026-09-21 15:14:31,141 - root - INFO - 126 - Entering password
+2026-09-21 15:14:31,176 - root - INFO - 129 - Entering confirm_password
+2026-09-21 15:14:31,176 - root - INFO - 129 - Entering confirm_password
+2026-09-21 15:14:31,211 - root - INFO - 131 - Clicking on register button
+2026-09-21 15:14:31,211 - root - INFO - 131 - Clicking on register button
+2026-09-21 15:14:31,211 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:14:31,211 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:14:31,908 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:31,908 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:31,908 - root - INFO - 31 - Entering password
+2026-09-21 15:14:31,908 - root - INFO - 31 - Entering password
+2026-09-21 15:14:31,945 - root - INFO - 33 - Entering password
+2026-09-21 15:14:31,945 - root - INFO - 33 - Entering password
+2026-09-21 15:14:31,987 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:14:31,987 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:14:32,270 - root - INFO - 81 - Checking login status
+2026-09-21 15:14:32,270 - root - INFO - 81 - Checking login status
+2026-09-21 15:14:32,299 - root - INFO - 84 - Login pass
+2026-09-21 15:14:32,299 - root - INFO - 84 - Login pass
+2026-09-21 15:14:32,299 - root - INFO - 85 - Click on menu button
+2026-09-21 15:14:32,299 - root - INFO - 85 - Click on menu button
+2026-09-21 15:14:32,376 - root - INFO - 87 - Click on logout menu
+2026-09-21 15:14:32,376 - root - INFO - 87 - Click on logout menu
+2026-09-21 15:14:32,716 - root - INFO - 37 - Checking login status
+2026-09-21 15:14:32,716 - root - INFO - 37 - Checking login status
+2026-09-21 15:14:32,904 - root - INFO - 49 - Login fail
+2026-09-21 15:14:32,904 - root - INFO - 49 - Login fail
+2026-09-21 15:14:32,904 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:14:32,904 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:14:33,017 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:14:33,017 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:14:33,017 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:14:33,017 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:14:33,088 - root - INFO - 133 - Checking registration status
+2026-09-21 15:14:33,088 - root - INFO - 133 - Checking registration status
+2026-09-21 15:14:33,133 - root - INFO - 135 - Registration passed
+2026-09-21 15:14:33,133 - root - INFO - 135 - Registration passed
+2026-09-21 15:14:33,133 - root - INFO - 136 - Clicking on menu button
+2026-09-21 15:14:33,133 - root - INFO - 136 - Clicking on menu button
+2026-09-21 15:14:33,209 - root - INFO - 138 - Clicking on logout button
+2026-09-21 15:14:33,209 - root - INFO - 138 - Clicking on logout button
+2026-09-21 15:14:33,374 - root - INFO - 89 - Taking screenshot
+2026-09-21 15:14:33,374 - root - INFO - 89 - Taking screenshot
+2026-09-21 15:14:33,537 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:14:33,537 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:14:33,568 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:14:33,568 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:14:33,568 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:14:33,568 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:14:33,568 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:14:33,568 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:14:33,916 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:33,916 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:33,932 - root - INFO - 75 - Entering Email
+2026-09-21 15:14:33,932 - root - INFO - 75 - Entering Email
+2026-09-21 15:14:33,970 - root - INFO - 77 - Entering password
+2026-09-21 15:14:33,970 - root - INFO - 77 - Entering password
+2026-09-21 15:14:33,985 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:14:33,985 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:14:34,186 - root - INFO - 140 - Taking screenshot
+2026-09-21 15:14:34,186 - root - INFO - 140 - Taking screenshot
+2026-09-21 15:14:34,275 - root - INFO - 142 - Test case test_credkart_registration_003 is passed 
+2026-09-21 15:14:34,275 - root - INFO - 142 - Test case test_credkart_registration_003 is passed 
+2026-09-21 15:14:34,275 - root - INFO - 149 - Testcase test_credkart_registration_003 is completed
+2026-09-21 15:14:34,275 - root - INFO - 149 - Testcase test_credkart_registration_003 is completed
+2026-09-21 15:14:34,659 - root - INFO - 81 - Checking login status
+2026-09-21 15:14:34,659 - root - INFO - 81 - Checking login status
+2026-09-21 15:14:38,243 - root - INFO - 49 - Login fail
+2026-09-21 15:14:38,243 - root - INFO - 49 - Login fail
+2026-09-21 15:14:38,243 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:14:38,243 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:14:38,294 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:14:38,294 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:14:38,295 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:14:38,295 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:14:40,180 - root - INFO - 93 - Login fail
+2026-09-21 15:14:40,180 - root - INFO - 93 - Login fail
+2026-09-21 15:14:40,180 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:14:40,180 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:14:40,211 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:14:40,211 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:14:40,211 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:14:40,211 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:14:40,231 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:14:40,231 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:14:40,231 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:14:40,231 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:14:40,231 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:14:40,231 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:14:40,659 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:40,659 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:40,675 - root - INFO - 75 - Entering Email
+2026-09-21 15:14:40,675 - root - INFO - 75 - Entering Email
+2026-09-21 15:14:40,692 - root - INFO - 77 - Entering password
+2026-09-21 15:14:40,692 - root - INFO - 77 - Entering password
+2026-09-21 15:14:40,705 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:14:40,705 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:14:41,568 - root - INFO - 81 - Checking login status
+2026-09-21 15:14:41,568 - root - INFO - 81 - Checking login status
+2026-09-21 15:14:47,082 - root - INFO - 93 - Login fail
+2026-09-21 15:14:47,082 - root - INFO - 93 - Login fail
+2026-09-21 15:14:47,082 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:14:47,082 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:14:47,117 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:14:47,117 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:14:47,117 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:14:47,117 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:14:47,146 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:14:47,146 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:14:47,146 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:14:47,146 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:14:47,146 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:14:47,146 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:14:47,613 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:47,613 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:14:47,624 - root - INFO - 75 - Entering Email
+2026-09-21 15:14:47,624 - root - INFO - 75 - Entering Email
+2026-09-21 15:14:47,639 - root - INFO - 77 - Entering password
+2026-09-21 15:14:47,639 - root - INFO - 77 - Entering password
+2026-09-21 15:14:47,655 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:14:47,655 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:14:48,424 - root - INFO - 81 - Checking login status
+2026-09-21 15:14:48,424 - root - INFO - 81 - Checking login status
+2026-09-21 15:14:53,936 - root - INFO - 93 - Login fail
+2026-09-21 15:14:53,936 - root - INFO - 93 - Login fail
+2026-09-21 15:14:53,936 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:14:53,936 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:14:53,970 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:14:53,970 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:14:53,970 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:14:53,970 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:14:53,996 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:14:53,996 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:14:53,996 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:14:53,996 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:14:53,996 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:14:53,996 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:15:08,301 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:08,301 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:08,303 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:08,303 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:08,305 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:08,305 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:08,305 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:08,309 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:08,309 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:08,309 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:08,309 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:08,309 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:08,311 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:08,311 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:13,553 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:13,553 - selenium.webdriver.common.selenium_manager - WARNING - 135 - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_153_WINDOWS)); using driver found in the cache
+2026-09-21 15:15:36,800 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:15:36,800 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:15:36,949 - root - INFO - 53 - Testcase test_credkart_login_002 is started 
+2026-09-21 15:15:36,949 - root - INFO - 53 - Testcase test_credkart_login_002 is started 
+2026-09-21 15:15:37,771 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:15:37,771 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:15:37,776 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:15:37,776 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:15:37,849 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:37,849 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:37,849 - root - INFO - 31 - Entering password
+2026-09-21 15:15:37,849 - root - INFO - 31 - Entering password
+2026-09-21 15:15:37,914 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:15:37,914 - root - INFO - 24 - Testcase test_Credkart_Login_params_004 is started
+2026-09-21 15:15:37,919 - root - INFO - 55 - Opening browser and landing on:https://automation.credence.in/login  
+2026-09-21 15:15:37,919 - root - INFO - 55 - Opening browser and landing on:https://automation.credence.in/login  
+2026-09-21 15:15:37,921 - root - INFO - 62 - Entering email:CredenceTest_5005@credence.in
+2026-09-21 15:15:37,921 - root - INFO - 62 - Entering email:CredenceTest_5005@credence.in
+2026-09-21 15:15:38,033 - root - INFO - 113 - Testcase test_credkart_registration_003 is started
+2026-09-21 15:15:38,033 - root - INFO - 113 - Testcase test_credkart_registration_003 is started
+2026-09-21 15:15:38,125 - root - INFO - 69 - Entering password
+2026-09-21 15:15:38,125 - root - INFO - 69 - Entering password
+2026-09-21 15:15:38,152 - root - INFO - 33 - Entering password
+2026-09-21 15:15:38,152 - root - INFO - 33 - Entering password
+2026-09-21 15:15:38,195 - root - INFO - 75 - Clicking on login button
+2026-09-21 15:15:38,195 - root - INFO - 75 - Clicking on login button
+2026-09-21 15:15:38,228 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:15:38,228 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:15:38,274 - root - INFO - 37 - Checking login status
+2026-09-21 15:15:38,274 - root - INFO - 37 - Checking login status
+2026-09-21 15:15:38,274 - root - INFO - 90 - Checking login status
+2026-09-21 15:15:38,274 - root - INFO - 90 - Checking login status
+2026-09-21 15:15:38,779 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:38,779 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:38,779 - root - INFO - 31 - Entering password
+2026-09-21 15:15:38,779 - root - INFO - 31 - Entering password
+2026-09-21 15:15:38,808 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:38,808 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:38,808 - root - INFO - 31 - Entering password
+2026-09-21 15:15:38,808 - root - INFO - 31 - Entering password
+2026-09-21 15:15:39,051 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:39,051 - root - INFO - 26 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:39,052 - root - INFO - 31 - Entering password
+2026-09-21 15:15:39,052 - root - INFO - 31 - Entering password
+2026-09-21 15:15:39,351 - root - INFO - 115 - Opening the browser and landing on:https://automation.credence.in/register
+2026-09-21 15:15:39,351 - root - INFO - 115 - Opening the browser and landing on:https://automation.credence.in/register
+2026-09-21 15:15:39,359 - root - INFO - 121 - Entering name:Joel Rodriguez
+2026-09-21 15:15:39,359 - root - INFO - 121 - Entering name:Joel Rodriguez
+2026-09-21 15:15:39,403 - Test_User_Profile - INFO - 31 - Testcase test_credkart_url_001 is started 
+2026-09-21 15:15:39,403 - Test_User_Profile - INFO - 31 - Testcase test_credkart_url_001 is started 
+2026-09-21 15:15:39,404 - root - INFO - 61 - Testcase test_Credkart_Login_excel_005 is started
+2026-09-21 15:15:39,404 - root - INFO - 61 - Testcase test_Credkart_Login_excel_005 is started
+2026-09-21 15:15:39,585 - root - INFO - 33 - Entering password
+2026-09-21 15:15:39,585 - root - INFO - 33 - Entering password
+2026-09-21 15:15:39,597 - root - INFO - 33 - Entering password
+2026-09-21 15:15:39,597 - root - INFO - 33 - Entering password
+2026-09-21 15:15:39,606 - root - INFO - 33 - Entering password
+2026-09-21 15:15:39,606 - root - INFO - 33 - Entering password
+2026-09-21 15:15:39,638 - root - INFO - 123 - Entering email:rodriguezdeborah@example.net
+2026-09-21 15:15:39,638 - root - INFO - 123 - Entering email:rodriguezdeborah@example.net
+2026-09-21 15:15:39,711 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:15:39,711 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:15:39,733 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:15:39,733 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:15:39,742 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:15:39,742 - root - INFO - 35 - Clicking on login button
+2026-09-21 15:15:39,798 - root - INFO - 126 - Entering password
+2026-09-21 15:15:39,798 - root - INFO - 126 - Entering password
+2026-09-21 15:15:39,868 - root - INFO - 37 - Checking login status
+2026-09-21 15:15:39,868 - root - INFO - 37 - Checking login status
+2026-09-21 15:15:39,897 - root - INFO - 129 - Entering confirm_password
+2026-09-21 15:15:39,897 - root - INFO - 129 - Entering confirm_password
+2026-09-21 15:15:39,906 - root - INFO - 92 - Login pass
+2026-09-21 15:15:39,906 - root - INFO - 92 - Login pass
+2026-09-21 15:15:39,906 - root - INFO - 93 - clicking on menu button
+2026-09-21 15:15:39,906 - root - INFO - 93 - clicking on menu button
+2026-09-21 15:15:39,942 - root - INFO - 131 - Clicking on register button
+2026-09-21 15:15:39,942 - root - INFO - 131 - Clicking on register button
+2026-09-21 15:15:39,963 - root - INFO - 95 - Clicking on logout button
+2026-09-21 15:15:39,963 - root - INFO - 95 - Clicking on logout button
+2026-09-21 15:15:40,495 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:40,495 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:40,506 - root - INFO - 75 - Entering Email
+2026-09-21 15:15:40,506 - root - INFO - 75 - Entering Email
+2026-09-21 15:15:40,550 - root - INFO - 37 - Checking login status
+2026-09-21 15:15:40,550 - root - INFO - 37 - Checking login status
+2026-09-21 15:15:40,575 - root - INFO - 77 - Entering password
+2026-09-21 15:15:40,575 - root - INFO - 77 - Entering password
+2026-09-21 15:15:40,675 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:15:40,675 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:15:41,009 - root - INFO - 97 - Taking screenshot
+2026-09-21 15:15:41,009 - root - INFO - 97 - Taking screenshot
+2026-09-21 15:15:41,025 - Test_User_Profile - INFO - 33 - Opening URL and landing on :https://automation.credence.in
+2026-09-21 15:15:41,025 - Test_User_Profile - INFO - 33 - Opening URL and landing on :https://automation.credence.in
+2026-09-21 15:15:41,025 - Test_User_Profile - INFO - 34 - Checking page title
+2026-09-21 15:15:41,025 - Test_User_Profile - INFO - 34 - Checking page title
+2026-09-21 15:15:41,029 - Test_User_Profile - INFO - 36 - Page title is correct and landed on https://automation.credence.in 
+2026-09-21 15:15:41,029 - Test_User_Profile - INFO - 36 - Page title is correct and landed on https://automation.credence.in 
+2026-09-21 15:15:41,029 - Test_User_Profile - INFO - 38 - Taking screenshot
+2026-09-21 15:15:41,029 - Test_User_Profile - INFO - 38 - Taking screenshot
+2026-09-21 15:15:41,081 - root - INFO - 99 - Testcase test_credkart_login_002 is passed
+2026-09-21 15:15:41,081 - root - INFO - 99 - Testcase test_credkart_login_002 is passed
+2026-09-21 15:15:41,081 - root - INFO - 106 - Testcase test_credkart_login_002 is completed
+2026-09-21 15:15:41,081 - root - INFO - 106 - Testcase test_credkart_login_002 is completed
+2026-09-21 15:15:41,110 - Test_User_Profile - INFO - 40 - Testcase test_credkart_url_001 is Pass
+2026-09-21 15:15:41,110 - Test_User_Profile - INFO - 40 - Testcase test_credkart_url_001 is Pass
+2026-09-21 15:15:41,110 - Test_User_Profile - INFO - 47 - Testcase test_credkart_url_001 is completed
+2026-09-21 15:15:41,110 - Test_User_Profile - INFO - 47 - Testcase test_credkart_url_001 is completed
+2026-09-21 15:15:41,470 - root - INFO - 37 - Checking login status
+2026-09-21 15:15:41,470 - root - INFO - 37 - Checking login status
+2026-09-21 15:15:41,474 - root - INFO - 39 - Login pass
+2026-09-21 15:15:41,474 - root - INFO - 39 - Login pass
+2026-09-21 15:15:41,487 - root - INFO - 40 - Click on menu button
+2026-09-21 15:15:41,487 - root - INFO - 40 - Click on menu button
+2026-09-21 15:15:41,517 - root - INFO - 42 - Click on logout menu
+2026-09-21 15:15:41,517 - root - INFO - 42 - Click on logout menu
+2026-09-21 15:15:41,551 - root - INFO - 44 - Taking screenshot
+2026-09-21 15:15:41,551 - root - INFO - 44 - Taking screenshot
+2026-09-21 15:15:41,736 - root - INFO - 133 - Checking registration status
+2026-09-21 15:15:41,736 - root - INFO - 133 - Checking registration status
+2026-09-21 15:15:41,738 - root - INFO - 135 - Registration passed
+2026-09-21 15:15:41,738 - root - INFO - 135 - Registration passed
+2026-09-21 15:15:41,738 - root - INFO - 136 - Clicking on menu button
+2026-09-21 15:15:41,738 - root - INFO - 136 - Clicking on menu button
+2026-09-21 15:15:41,784 - root - INFO - 138 - Clicking on logout button
+2026-09-21 15:15:41,784 - root - INFO - 138 - Clicking on logout button
+2026-09-21 15:15:41,828 - root - INFO - 140 - Taking screenshot
+2026-09-21 15:15:41,828 - root - INFO - 140 - Taking screenshot
+2026-09-21 15:15:42,345 - root - INFO - 81 - Checking login status
+2026-09-21 15:15:42,345 - root - INFO - 81 - Checking login status
+2026-09-21 15:15:42,356 - root - INFO - 84 - Login pass
+2026-09-21 15:15:42,356 - root - INFO - 84 - Login pass
+2026-09-21 15:15:42,356 - root - INFO - 85 - Click on menu button
+2026-09-21 15:15:42,356 - root - INFO - 85 - Click on menu button
+2026-09-21 15:15:42,388 - root - INFO - 87 - Click on logout menu
+2026-09-21 15:15:42,388 - root - INFO - 87 - Click on logout menu
+2026-09-21 15:15:42,423 - root - INFO - 89 - Taking screenshot
+2026-09-21 15:15:42,423 - root - INFO - 89 - Taking screenshot
+2026-09-21 15:15:42,539 - root - INFO - 46 - Testcase test Credkart_Login_params_004 passed 
+2026-09-21 15:15:42,539 - root - INFO - 46 - Testcase test Credkart_Login_params_004 passed 
+2026-09-21 15:15:42,539 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:15:42,539 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:15:42,796 - root - INFO - 142 - Test case test_credkart_registration_003 is passed 
+2026-09-21 15:15:42,796 - root - INFO - 142 - Test case test_credkart_registration_003 is passed 
+2026-09-21 15:15:42,796 - root - INFO - 149 - Testcase test_credkart_registration_003 is completed
+2026-09-21 15:15:42,796 - root - INFO - 149 - Testcase test_credkart_registration_003 is completed
+2026-09-21 15:15:43,401 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:15:43,401 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:15:43,416 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:15:43,416 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:15:43,416 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:15:43,416 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:15:43,416 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:15:43,416 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:15:43,768 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:43,768 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:43,777 - root - INFO - 75 - Entering Email
+2026-09-21 15:15:43,777 - root - INFO - 75 - Entering Email
+2026-09-21 15:15:43,810 - root - INFO - 77 - Entering password
+2026-09-21 15:15:43,810 - root - INFO - 77 - Entering password
+2026-09-21 15:15:43,824 - root - INFO - 49 - Login fail
+2026-09-21 15:15:43,824 - root - INFO - 49 - Login fail
+2026-09-21 15:15:43,824 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:15:43,824 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:15:43,840 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:15:43,840 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:15:43,864 - root - INFO - 81 - Checking login status
+2026-09-21 15:15:43,864 - root - INFO - 81 - Checking login status
+2026-09-21 15:15:43,895 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:15:43,895 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:15:43,895 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:15:43,895 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:15:45,373 - root - INFO - 49 - Login fail
+2026-09-21 15:15:45,373 - root - INFO - 49 - Login fail
+2026-09-21 15:15:45,373 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:15:45,373 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:15:45,421 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:15:45,421 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:15:45,421 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:15:45,421 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:15:46,065 - root - INFO - 49 - Login fail
+2026-09-21 15:15:46,065 - root - INFO - 49 - Login fail
+2026-09-21 15:15:46,065 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:15:46,065 - root - INFO - 50 - Taking screenshot for login fail
+2026-09-21 15:15:46,132 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:15:46,132 - root - INFO - 52 - Testcase test_Credkart_login_params_004 is failed
+2026-09-21 15:15:46,132 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:15:46,132 - root - INFO - 56 - Testcase test_Credkart_login_params_004 is completed
+2026-09-21 15:15:49,389 - root - INFO - 93 - Login fail
+2026-09-21 15:15:49,389 - root - INFO - 93 - Login fail
+2026-09-21 15:15:49,389 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:15:49,389 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:15:49,445 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:15:49,445 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:15:49,445 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:15:49,445 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:15:49,462 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:15:49,462 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:15:49,462 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:15:49,462 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:15:49,462 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:15:49,462 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:15:49,795 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:49,795 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:49,795 - root - INFO - 75 - Entering Email
+2026-09-21 15:15:49,795 - root - INFO - 75 - Entering Email
+2026-09-21 15:15:49,824 - root - INFO - 77 - Entering password
+2026-09-21 15:15:49,824 - root - INFO - 77 - Entering password
+2026-09-21 15:15:49,837 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:15:49,837 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:15:49,871 - root - INFO - 81 - Checking login status
+2026-09-21 15:15:49,871 - root - INFO - 81 - Checking login status
+2026-09-21 15:15:55,389 - root - INFO - 93 - Login fail
+2026-09-21 15:15:55,389 - root - INFO - 93 - Login fail
+2026-09-21 15:15:55,389 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:15:55,389 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:15:55,441 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:15:55,441 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:15:55,443 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:15:55,443 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:15:55,453 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:15:55,453 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:15:55,454 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:15:55,454 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:15:55,454 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:15:55,454 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:15:55,794 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:55,794 - root - INFO - 70 - Opening browser and landing on https://automation.credence.in/login 
+2026-09-21 15:15:55,803 - root - INFO - 75 - Entering Email
+2026-09-21 15:15:55,803 - root - INFO - 75 - Entering Email
+2026-09-21 15:15:55,836 - root - INFO - 77 - Entering password
+2026-09-21 15:15:55,836 - root - INFO - 77 - Entering password
+2026-09-21 15:15:55,861 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:15:55,861 - root - INFO - 79 - Clicking on login button
+2026-09-21 15:15:55,886 - root - INFO - 81 - Checking login status
+2026-09-21 15:15:55,886 - root - INFO - 81 - Checking login status
+2026-09-21 15:16:01,422 - root - INFO - 93 - Login fail
+2026-09-21 15:16:01,422 - root - INFO - 93 - Login fail
+2026-09-21 15:16:01,422 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:16:01,422 - root - INFO - 94 - Taking screenshot for login fail
+2026-09-21 15:16:01,478 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:16:01,478 - root - INFO - 96 - Testcase test_Credkart_login_excel_005 is failed
+2026-09-21 15:16:01,478 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:16:01,478 - root - INFO - 99 - Writing data into excel file
+2026-09-21 15:16:01,489 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:16:01,489 - root - INFO - 109 - All testcases are passed
+2026-09-21 15:16:01,489 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:16:01,489 - root - INFO - 110 - Testcase test Credkart_Login_excel_005 passed
+2026-09-21 15:16:01,489 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
+2026-09-21 15:16:01,489 - root - INFO - 116 - Testcase test_Credkart_Login_excel_005 is completed
